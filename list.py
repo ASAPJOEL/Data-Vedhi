@@ -1,4 +1,4 @@
-# Create a list
+# first Create a list
 my_list = []
 
 # Append elements to the list
@@ -14,7 +14,7 @@ def to_delete_from_list(element):
     else:
         print(f"{element} not found in the list.")
 
-# Example usage
+# usage
 append_to_list(10)
 delete_from_list(20)
 
